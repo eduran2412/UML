@@ -1,3 +1,3 @@
 # UML
 
-UML-Diagram
+UML-Diagrams
